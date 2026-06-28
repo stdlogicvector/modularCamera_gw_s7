@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.1 (win64) Build 6140274 Thu May 22 00:12:29 MDT 2025
+| Date         : Tue Jan  6 18:33:01 2026
+| Host         : Workstation running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s15ftgb196-2
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'ila_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of ila_0 (xilinx.com:ip:ila:6.2 (Rev. 18)) to current project options.
+

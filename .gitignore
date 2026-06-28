@@ -1,0 +1,18 @@
+syntax: glob
+*._DAV/
+/.hg
+/binaries
+/*.cache
+/*.gen
+/*.runs
+/*.hw
+/*.sim
+/*.ip_user_files
+*.old
+*.alc
+*.avi
+*.mp4
+*.mpg
+*.txt
+*.ods
+*.dcp
